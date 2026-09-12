@@ -75,5 +75,5 @@ Corrélations brutes sans contrôle des effets fixes ; divergences méthodologiq
 
 ## 👤 Auteure
 
-**Divine Etongo Dikinz Kama** — M2 DADEE, Aix-Marseille School of Economics
+**Divine Etongo Dikinz Kama**
 [LinkedIn](https://www.linkedin.com/in/divine-edk)
