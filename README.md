@@ -7,11 +7,11 @@
 
 ---
 
-## 🎯 Objectif
+##  Objectif
 
 Comparer la structure et l'évolution des recettes fiscales des pays de l'OCDE, et interroger la relation entre pression fiscale et croissance économique — dans un contexte marqué par l'accord OCDE/G20 sur l'impôt minimum mondial à 15 % (Pilier 2) et les tensions budgétaires post-COVID.
 
-## 🗂️ Données (toutes publiques)
+##  Données (toutes publiques)
 
 | Source | Contenu | Référence |
 |---|---|---|
@@ -21,11 +21,11 @@ Comparer la structure et l'évolution des recettes fiscales des pays de l'OCDE, 
 
 Classification OCDE des recettes utilisée : `T_1100` impôt sur le revenu · `T_1210` impôt sur les sociétés · `T_2000` cotisations sociales · `T_4000` impôts sur la propriété · `T_5000` taxes sur les biens et services (TVA).
 
-## 🔍 Démarche
+##  Démarche
 
 Nettoyage, harmonisation et croisement des trois sources (méthodologies parfois divergentes) sur un échantillon de **22 à 25 pays de l'OCDE**. Année de référence **2019** (pré-COVID) pour la composition ; série longue **2000–2024** pour l'impôt sur les sociétés.
 
-## 📊 Visualisations & résultats clés
+##  Visualisations & résultats clés
 
 ### 1. Composition des recettes fiscales par pays (2019)
 ![Composition des recettes fiscales par pays, % du PIB, 2019](01_composition_2019.png)
@@ -50,11 +50,11 @@ Le nuage de points ci-dessus (corrélation négative, 2014–2024) appuie la th�
 
 Ni l'un ni l'autre cadrage n'est « faux » — ils posent des questions différentes. C'est tout l'enjeu du choix méthodologique.
 
-## 🧭 Enseignement méthodologique
+##  Enseignement méthodologique
 
 Une même réalité peut produire des récits opposés selon le cadrage retenu. C'est précisément pourquoi un analyste de données doit **expliciter ses choix méthodologiques, ses biais potentiels et les limites de ses conclusions** — le fil conducteur de ce projet.
 
-## 📁 Structure du dépôt
+##  Structure du dépôt
 
 ```
 oecd-tax-revenue-analysis/
@@ -66,16 +66,16 @@ oecd-tax-revenue-analysis/
 └── Rapport_Fiscal_OCDE.pdf     # rapport d'analyse complet
 ```
 
-## ▶️ Explorer le projet
+##  Explorer le projet
 
-- 📄 **Rapport complet** : [`Rapport_Fiscal_OCDE.pdf`](Rapport_Fiscal_OCDE.pdf)
-- 📊 **Tableau de bord** réalisé sous **Power BI** (Power Query, DAX) — aperçus dans la section ci-dessus.
+-  **Rapport complet** : [`Rapport_Fiscal_OCDE.pdf`](Rapport_Fiscal_OCDE.pdf)
+-  **Tableau de bord** réalisé sous **Power BI** (Power Query, DAX) — aperçus dans la section ci-dessus.
 
-## ⚠️ Limites
+##  Limites
 
 Corrélations brutes sans contrôle des effets fixes ; divergences méthodologiques entre sources (le FMI tend à rapporter des chiffres légèrement supérieurs pour les pays en développement) ; distorsion du PIB irlandais par les profits des multinationales (« Leprechaun economics », 2015).
 
-## 👤 Auteure
+##  Auteure
 
 **Divine Etongo Dikinz Kama** — M2 DADEE, Aix-Marseille School of Economics
 [LinkedIn](https://www.linkedin.com/in/divine-edk)
