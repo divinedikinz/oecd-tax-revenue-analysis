@@ -103,7 +103,7 @@ oecd-tax-revenue-analysis/
 
 - 📄 **Rapport complet** : [`report/Rapport_Fiscal_OCDE.pdf`](report/Rapport_Fiscal_OCDE.pdf)
 - 📊 **Tableau de bord Power BI** : `dashboard/oecd-tax-revenue.pbix` (à ouvrir avec Power BI Desktop)
-- 🔗 **Version interactive** : _(à ajouter — lien « Publier sur le web » de Power BI)_
+- 🔗 **Version interactive** : _([de Power BI](https://app.powerbi.com/groups/me/reports/d1f69802-09cf-47f4-86a0-15bdb22d3daa/0bed1e4cd174b1c94c0b?experience=power-bi))_
 
 ## ⚠️ Limites
 
