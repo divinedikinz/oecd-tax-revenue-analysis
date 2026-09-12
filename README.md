@@ -70,7 +70,7 @@ oecd-tax-revenue-analysis/
 ##  Explorer le projet
 
 -  **Rapport complet** : [`Rapport_Fiscal_OCDE.pdf`](Rapport_Fiscal_OCDE.pdf)
--  **Tableau de bord** réalisé sous **Power BI** (Power Query, DAX) — aperçus dans la section ci-dessus.
+-  **Tableau de bord** réalisé sous **Power BI** (Power Query, DAX).
 
 ##  Limites
 
