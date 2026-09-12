@@ -3,6 +3,7 @@
 > Étude comparative des systèmes fiscaux des pays de l'OCDE à partir de **trois sources internationales** (OCDE, Eurostat, FMI), avec un tableau de bord **Power BI** — et une réflexion sur la manière dont le *cadrage* des données oriente les conclusions.
 
 **Auteure :** Divine Etongo Dikinz Kama · [LinkedIn](https://www.linkedin.com/in/divine-edk)
+
 **Outils :** Power BI (Power Query, DAX), Excel · sources publiques OCDE / Eurostat / FMI
 
 ---
@@ -77,5 +78,5 @@ Corrélations brutes sans contrôle des effets fixes ; divergences méthodologiq
 
 ##  Auteure
 
-**Divine Etongo Dikinz Kama** — M2 DADEE, Aix-Marseille School of Economics
+**Divine Etongo Dikinz Kama** 
 [LinkedIn](https://www.linkedin.com/in/divine-edk)
