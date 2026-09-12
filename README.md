@@ -73,7 +73,7 @@ oecd-tax-revenue-analysis/
 - 📊 **Tableau de bord Power BI** : `oecd-tax-revenue.pbix` (à ouvrir avec Power BI Desktop)
 - 🔗 **Version interactive** : _(à ajouter — lien « Publier sur le web » de Power BI)_
 
-## ⚠️ Limites
+##  Limites
 
 Corrélations brutes sans contrôle des effets fixes ; divergences méthodologiques entre sources (le FMI tend à rapporter des chiffres légèrement supérieurs pour les pays en développement) ; distorsion du PIB irlandais par les profits des multinationales (« Leprechaun economics », 2015).
 
@@ -102,10 +102,10 @@ oecd-tax-revenue-analysis/
 ## ▶️ Explorer le projet
 
 - 📄 **Rapport complet** : [`report/Rapport_Fiscal_OCDE.pdf`](report/Rapport_Fiscal_OCDE.pdf)
-- 📊 **Tableau de bord Power BI** : `dashboard/oecd-tax-revenue.pbix` (à ouvrir avec Power BI Desktop)
-- 🔗 **Version interactive** : _([de Power BI](https://app.powerbi.com/groups/me/reports/d1f69802-09cf-47f4-86a0-15bdb22d3daa/0bed1e4cd174b1c94c0b?experience=power-bi))_
 
-## ⚠️ Limites
+
+
+##  Limites
 
 Corrélations brutes sans contrôle des effets fixes ; divergences méthodologiques entre sources (le FMI tend à rapporter des chiffres légèrement supérieurs pour les pays en développement) ; distorsion du PIB irlandais par les profits des multinationales (« Leprechaun economics », 2015).
 
